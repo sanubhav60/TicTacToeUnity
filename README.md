@@ -1,2 +1,2 @@
 # TicTacToeUnity
-Tic Tac Toe Game
+Simle Tic tac toe game made with unity
